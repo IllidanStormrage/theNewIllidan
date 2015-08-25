@@ -1,0 +1,742 @@
+[ 2015-01-05T00:08:31+08:00 ] 127.0.0.1 /source/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.036559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036683s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.028075s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.142293s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.012948s ]
+
+[ 2015-01-05T00:11:03+08:00 ] 127.0.0.1 /source/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.016812s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.093811s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.016640s ]
+
+[ 2015-01-05T00:12:21+08:00 ] ERR: (ThinkException) Table 'tests.user_role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user_role`
+[ 2015-01-05T00:12:41+08:00 ] ERR: (ThinkException) Table 'tests.use_role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `use_role`
+[ 2015-01-05T00:13:15+08:00 ] ERR: (ThinkException) Table 'tests.userole' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `userole`
+[ 2015-01-05T00:13:28+08:00 ] ERR: (ThinkException) Table 'tests.user_role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user_role`
+[ 2015-01-05T00:13:28+08:00 ] ERR: (ThinkException) Table 'tests.user_role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user_role`
+[ 2015-01-05T00:13:29+08:00 ] ERR: (ThinkException) Table 'tests.user_role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user_role`
+[ 2015-01-05T00:13:30+08:00 ] ERR: (ThinkException) Table 'tests.user_role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user_role`
+[ 2015-01-05T00:13:37+08:00 ] 127.0.0.1 /source/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015711s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.087180s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.012783s ]
+
+[ 2015-01-05T00:15:31+08:00 ] 127.0.0.1 /source/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001419s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.016957s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.090857s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.018249s ]
+
+[ 2015-01-05T00:15:40+08:00 ] 127.0.0.1 /source/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.016583s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.104076s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.022105s ]
+
+[ 2015-01-05T00:17:23+08:00 ] 127.0.0.1 /source/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001632s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.037398s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.093118s ]
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.014791s ]
+
+[ 2015-01-05T00:18:25+08:00 ] 127.0.0.1 /source/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015221s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.095328s ]
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.012374s ]
+
+[ 2015-01-05T09:13:06+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001364s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.016418s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.076386s ]
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.017416s ]
+
+[ 2015-01-05T09:16:37+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [8] Use of undefined constant BELONG_TO - assumed 'BELONG_TO' E:\apache\htdocs\source\ThinkPHP\Common\common.php 第 253 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015458s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.104783s ]
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.017748s ]
+
+[ 2015-01-05T09:17:12+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001530s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015321s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.074130s ]
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.018443s ]
+
+[ 2015-01-05T09:19:09+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015855s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.088118s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.021911s ]
+
+[ 2015-01-05T09:23:39+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.007188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007295s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015078s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.074286s ]
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.024644s ]
+
+[ 2015-01-05T09:42:39+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015064s ]
+SQL: INSERT INTO `user` (`username`,`password`,`email`) VALUES ('zpass','password','email') [ RunTime:0.076033s ]
+SQL: SHOW COLUMNS FROM `userrole` [ RunTime:0.018090s ]
+
+[ 2015-01-05T10:00:25+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() VALUES ()' at line 1
+ [ SQL语句 ] : INSERT INTO  () VALUES ()
+[ 2015-01-05T10:12:28+08:00 ] ERR: (ThinkException) Table 'tests.thinkuser' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `thinkuser`
+[ 2015-01-05T10:12:57+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`,`dept_id`) VALUES ('thinkphp',1)' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`,`dept_id`) VALUES ('thinkphp',1)
+[ 2015-01-05T10:18:28+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`) VALUES ('thinkphp')' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`) VALUES ('thinkphp')
+[ 2015-01-05T10:18:39+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() VALUES ()' at line 1
+ [ SQL语句 ] : INSERT INTO  () VALUES ()
+[ 2015-01-05T10:20:34+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`,`dept_id`) VALUES ('thinkphp',1)' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`,`dept_id`) VALUES ('thinkphp',1)
+[ 2015-01-05T10:21:37+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`,`dept_id`) VALUES ('thinkphp',1)' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`,`dept_id`) VALUES ('thinkphp',1)
+[ 2015-01-05T10:26:40+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`,`dept_id`) VALUES ('thinkphp',1)' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`,`dept_id`) VALUES ('thinkphp',1)
+[ 2015-01-05T10:26:41+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`,`dept_id`) VALUES ('thinkphp',1)' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`,`dept_id`) VALUES ('thinkphp',1)
+[ 2015-01-05T10:26:42+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`,`dept_id`) VALUES ('thinkphp',1)' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`,`dept_id`) VALUES ('thinkphp',1)
+[ 2015-01-05T10:26:42+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`,`dept_id`) VALUES ('thinkphp',1)' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`,`dept_id`) VALUES ('thinkphp',1)
+[ 2015-01-05T10:34:22+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() VALUES ()' at line 1
+ [ SQL语句 ] : INSERT INTO  () VALUES ()
+[ 2015-01-05T10:40:32+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() VALUES ()' at line 1
+ [ SQL语句 ] : INSERT INTO  () VALUES ()
+[ 2015-01-05T10:40:43+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() VALUES ()' at line 1
+ [ SQL语句 ] : INSERT INTO  () VALUES ()
+[ 2015-01-05T10:41:39+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`name`,`dept_id`) VALUES ('thinkphp',1)' at line 1
+ [ SQL语句 ] : INSERT INTO  (`name`,`dept_id`) VALUES ('thinkphp',1)
+[ 2015-01-05T10:41:59+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() VALUES ()' at line 1
+ [ SQL语句 ] : INSERT INTO  () VALUES ()
+[ 2015-01-05T10:43:02+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013976s ]
+SQL: INSERT INTO `think_user` () VALUES () [ RunTime:0.156404s ]
+SQL: SELECT * FROM `think_user` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.022364s ]
+SQL: SELECT * FROM `think_profile` WHERE 1=1 AND user_id='1' LIMIT 1   [ RunTime:0.083407s ]
+SQL: SHOW COLUMNS FROM `think_dept` [ RunTime:0.017581s ]
+SQL: SELECT * FROM `think_dept` WHERE 1=1 AND id='0' LIMIT 1   [ RunTime:0.000433s ]
+SQL: SHOW COLUMNS FROM `think_card` [ RunTime:0.012468s ]
+SQL: SELECT * FROM `think_card` WHERE 1=1 AND user_id='1'  [ RunTime:0.000351s ]
+SQL: SHOW COLUMNS FROM `think_group` [ RunTime:0.009238s ]
+NOTIC: [8] Undefined index: mapping_order E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 176 行.
+NOTIC: [8] Undefined index: mapping_limit E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 177 行.
+SQL: SELECT b.* FROM think_user_group AS a, think_group AS b WHERE a.group_id = b.id AND a. user_id='1' [ RunTime:0.000788s ]
+
+[ 2015-01-05T10:43:59+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.033906s ]
+SQL: INSERT INTO `think_user` () VALUES () [ RunTime:0.020957s ]
+SQL: SELECT * FROM `think_user` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.005033s ]
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.020001s ]
+SQL: SELECT * FROM `think_profile` WHERE 1=1 AND user_id='1' LIMIT 1   [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `think_dept` [ RunTime:0.016929s ]
+SQL: SELECT * FROM `think_dept` WHERE 1=1 AND id='0' LIMIT 1   [ RunTime:0.000348s ]
+SQL: SHOW COLUMNS FROM `think_card` [ RunTime:0.010933s ]
+SQL: SELECT * FROM `think_card` WHERE 1=1 AND user_id='1'  [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `think_group` [ RunTime:0.009137s ]
+NOTIC: [8] Undefined index: mapping_order E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 176 行.
+NOTIC: [8] Undefined index: mapping_limit E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 177 行.
+SQL: SELECT b.* FROM think_user_group AS a, think_group AS b WHERE a.group_id = b.id AND a. user_id='1' [ RunTime:0.000313s ]
+
+[ 2015-01-05T10:44:27+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013254s ]
+SQL: INSERT INTO `think_user` () VALUES () [ RunTime:0.000318s ]
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.013569s ]
+SQL: SHOW COLUMNS FROM `think_dept` [ RunTime:0.011193s ]
+SQL: SHOW COLUMNS FROM `think_card` [ RunTime:0.011002s ]
+SQL: SHOW COLUMNS FROM `think_group` [ RunTime:0.009606s ]
+SQL: SELECT * FROM `think_user` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000364s ]
+SQL: SELECT * FROM `think_profile` WHERE 1=1 AND user_id='1' LIMIT 1   [ RunTime:0.000256s ]
+SQL: SELECT * FROM `think_dept` WHERE 1=1 AND id='0' LIMIT 1   [ RunTime:0.000233s ]
+SQL: SELECT * FROM `think_card` WHERE 1=1 AND user_id='1'  [ RunTime:0.000236s ]
+NOTIC: [8] Undefined index: mapping_order E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 176 行.
+NOTIC: [8] Undefined index: mapping_limit E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 177 行.
+SQL: SELECT b.* FROM think_user_group AS a, think_group AS b WHERE a.group_id = b.id AND a. user_id='1' [ RunTime:0.000246s ]
+
+[ 2015-01-05T10:44:30+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013211s ]
+SQL: INSERT INTO `think_user` () VALUES () [ RunTime:0.000345s ]
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.013925s ]
+SQL: SHOW COLUMNS FROM `think_dept` [ RunTime:0.011151s ]
+SQL: SHOW COLUMNS FROM `think_card` [ RunTime:0.010901s ]
+SQL: SHOW COLUMNS FROM `think_group` [ RunTime:0.009854s ]
+SQL: SELECT * FROM `think_user` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000364s ]
+SQL: SELECT * FROM `think_profile` WHERE 1=1 AND user_id='1' LIMIT 1   [ RunTime:0.000266s ]
+SQL: SELECT * FROM `think_dept` WHERE 1=1 AND id='0' LIMIT 1   [ RunTime:0.000186s ]
+SQL: SELECT * FROM `think_card` WHERE 1=1 AND user_id='1'  [ RunTime:0.000195s ]
+NOTIC: [8] Undefined index: mapping_order E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 176 行.
+NOTIC: [8] Undefined index: mapping_limit E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 177 行.
+SQL: SELECT b.* FROM think_user_group AS a, think_group AS b WHERE a.group_id = b.id AND a. user_id='1' [ RunTime:0.000202s ]
+
+[ 2015-01-05T10:46:07+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013144s ]
+SQL: INSERT INTO `think_user` (`name`,`dept_id`) VALUES ('thinkphp',1) [ RunTime:0.000462s ]
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.013523s ]
+SQL: SHOW COLUMNS FROM `think_dept` [ RunTime:0.044837s ]
+SQL: SHOW COLUMNS FROM `think_card` [ RunTime:0.011493s ]
+SQL: SHOW COLUMNS FROM `think_group` [ RunTime:0.009145s ]
+SQL: SELECT * FROM `think_user` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000343s ]
+SQL: SELECT * FROM `think_profile` WHERE 1=1 AND user_id='1' LIMIT 1   [ RunTime:0.000252s ]
+SQL: SELECT * FROM `think_dept` WHERE 1=1 AND id='1' LIMIT 1   [ RunTime:0.000295s ]
+SQL: SELECT * FROM `think_card` WHERE 1=1 AND user_id='1'  [ RunTime:0.000297s ]
+NOTIC: [8] Undefined index: mapping_order E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 176 行.
+NOTIC: [8] Undefined index: mapping_limit E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 177 行.
+SQL: SELECT b.* FROM think_user_group AS a, think_group AS b WHERE a.group_id = b.id AND a. user_id='1' [ RunTime:0.000365s ]
+
+[ 2015-01-05T10:55:21+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.050162s ]
+SQL: INSERT INTO `think_user` (`name`) VALUES ('thinkphp') [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.020818s ]
+SQL: SHOW COLUMNS FROM `think_dept` [ RunTime:0.017363s ]
+SQL: SHOW COLUMNS FROM `think_card` [ RunTime:0.016646s ]
+SQL: SHOW COLUMNS FROM `think_group` [ RunTime:0.014143s ]
+
+[ 2015-01-05T10:58:17+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013210s ]
+SQL: INSERT INTO `think_user` (`name`) VALUES ('thinkphp') [ RunTime:0.000337s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.013457s ]
+SQL: INSERT INTO `think_profile` (`email`,`nickname`,`user_id`) VALUES ('liu21st@gmail.com','流年',3) [ RunTime:0.000398s ]
+
+[ 2015-01-05T10:58:48+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001516s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.021808s ]
+SQL: INSERT INTO `think_user` (`name`) VALUES ('thinkphp') [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.013119s ]
+SQL: INSERT INTO `think_profile` (`email`,`nickname`,`user_id`) VALUES ('liu21st@gmail.com','流年',4) [ RunTime:0.000271s ]
+
+[ 2015-01-05T10:59:41+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.031978s ]
+SQL: INSERT INTO `think_user` (`name`,`dept_id`) VALUES ('thinkphp',1) [ RunTime:0.000304s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.013094s ]
+SQL: INSERT INTO `think_profile` (`email`,`nickname`,`user_id`) VALUES ('liu21st@gmail.com','流年',5) [ RunTime:0.000359s ]
+
+[ 2015-01-05T10:59:53+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.014148s ]
+SQL: INSERT INTO `think_user` (`name`,`dept_id`) VALUES ('thinkphp',1) [ RunTime:0.000344s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.014823s ]
+SQL: INSERT INTO `think_profile` (`email`,`nickname`,`user_id`) VALUES ('liu21st@gmail.com','流年',6) [ RunTime:0.000337s ]
+
+[ 2015-01-05T11:00:22+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.014271s ]
+SQL: INSERT INTO `think_user` (`name`,`dept_id`) VALUES ('thinkphp',1) [ RunTime:0.000357s ]
+NOTIC: [8] Undefined index: mapping_name E:\apache\htdocs\source\ThinkPHP\Extend\Model\RelationModel.class.php 第 239 行.
+SQL: SHOW COLUMNS FROM `think_profile` [ RunTime:0.014480s ]
+SQL: INSERT INTO `think_profile` (`email`,`nickname`,`user_id`) VALUES ('liu21st@gmail.com','流年',7) [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `think_dept` [ RunTime:0.011279s ]
+SQL: SHOW COLUMNS FROM `think_card` [ RunTime:0.011156s ]
+SQL: INSERT INTO `think_card` (`id`,`card`,`user_id`) VALUES (1,'12345678',7) [ RunTime:0.000470s ]
+SQL: INSERT INTO `think_card` (`id`,`card`,`user_id`) VALUES (2,'88888888',7) [ RunTime:0.000245s ]
+SQL: SHOW COLUMNS FROM `think_group` [ RunTime:0.014428s ]
+SQL: DELETE FROM `think_user_group` [ RunTime:0.000818s ]
+SQL: INSERT INTO think_user_group (user_id,group_id) SELECT a.id,b.id FROM think_user AS a ,think_group AS b where a.id =7 AND  b.id IN (1,2)  [ RunTime:0.039963s ]
+
+[ 2015-01-05T11:01:06+08:00 ] ERR: (ThinkException) Duplicate entry '1' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `think_card` (`id`,`card`,`user_id`) VALUES (1,'12345678',8)
+[ 2015-01-05T11:16:08+08:00 ] ERR: (ThinkException) Duplicate entry '1' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `think_card` (`id`,`card`,`user_id`) VALUES (1,'12345678',9)
+[ 2015-01-05T23:30:00+08:00 ] ERR: (ThinkException) Duplicate entry '1' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `think_card` (`id`,`card`,`user_id`) VALUES (1,'12345678',10)
+[ 2015-01-05T23:48:38+08:00 ] ERR: (ThinkException) 模板不存在[./App/Tpl/Index/index.html]
+[ 2015-01-05T23:53:36+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000990s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000585s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.150425s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.152184s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.159222s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.183572s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.188410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.055154s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.207395s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005687s ]
+
+[ 2015-01-05T23:55:17+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000851s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000816s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001739s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010085s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011834s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012376s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012883s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002030s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013912s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2015-01-05T23:56:32+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001764s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001335s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010366s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013537s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014007s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014446s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014776s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001804s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015389s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2015-01-05T23:56:33+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000859s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000704s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006139s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.007764s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008212s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008660s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009007s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001756s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009571s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2015-01-05T23:56:33+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001069s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001160s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008675s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011022s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011598s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012158s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002589s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013679s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2015-01-05T23:56:33+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000858s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000654s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006279s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.007859s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008324s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008760s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001770s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009680s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2015-01-05T23:56:34+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000843s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000640s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006550s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008109s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008569s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008979s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001704s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009861s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-01-05T23:58:57+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000950s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000731s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009992s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011745s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012220s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012694s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013049s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001838s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013638s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2015-01-05T23:58:58+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000987s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000685s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007207s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008944s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009398s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009829s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001678s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010670s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2015-01-05T23:58:59+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000811s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000727s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006512s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008141s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008552s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008954s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001660s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009849s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2015-01-05T23:58:59+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000808s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000591s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007003s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008466s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008902s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009302s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001709s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010232s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2015-01-05T23:58:59+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000788s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000624s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006070s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.007547s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.007999s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008440s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.008787s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001754s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009355s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2015-01-05T23:58:59+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000943s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000736s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008681s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010437s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011016s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011569s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002397s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012897s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2015-01-05T23:59:08+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001214s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000963s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007276s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009523s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009970s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010411s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001690s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011279s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2015-01-05T23:59:09+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000819s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000620s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006614s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008116s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008537s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008972s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001653s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009818s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2015-01-05T23:59:09+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001919s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001716s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010007s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013766s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014411s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015076s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002518s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016355s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2015-01-05T23:59:48+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000815s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000633s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010068s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011585s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012016s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012450s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001830s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013517s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2015-01-05T23:59:49+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001111s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000861s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008307s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010362s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010929s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011514s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002135s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012555s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2015-01-05T23:59:50+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000758s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000721s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006479s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008045s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008516s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008952s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001799s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009889s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2015-01-05T23:59:50+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000838s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000635s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006481s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.008021s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008488s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008921s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.009244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001696s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009785s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2015-01-05T23:59:50+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001001s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000815s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007628s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009526s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010089s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010605s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011010s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002078s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011664s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000740s ]
+

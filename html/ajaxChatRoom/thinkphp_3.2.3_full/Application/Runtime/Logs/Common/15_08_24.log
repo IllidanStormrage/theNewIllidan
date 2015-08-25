@@ -1,0 +1,6 @@
+[ 2015-08-24T20:24:35+08:00 ] 127.0.0.1 /ajaxChatRoom/thinkphp_3.2.3_full/index.php/Ho
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Ho
+

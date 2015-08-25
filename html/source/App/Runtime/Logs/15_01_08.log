@@ -1,0 +1,1149 @@
+[ 2015-01-08T00:01:30+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001451s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001576s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.012234s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000335s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013664s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000357s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.041793s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001117s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.042971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021061s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.064063s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.064590s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.065091s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.065590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002279s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.066440s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2015-01-08T00:01:42+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000625s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.009589s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000303s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012718s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000228s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.033070s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000717s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.033823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008392s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.042247s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.042639s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.043079s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.043424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001681s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.043982s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2015-01-08T00:02:04+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000863s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000929s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.010336s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000298s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.018436s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000328s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.039350s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.040403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019792s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.060220s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.060645s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.061046s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.061344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001581s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.061855s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2015-01-08T00:02:39+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000788s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.027274s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000453s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.018113s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000252s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.057949s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000530s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.058494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019649s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.078208s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.078558s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.078878s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.079106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001380s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.079625s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-01-08T00:02:43+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000969s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001081s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.011626s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000305s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011491s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000278s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.035093s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000765s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.035892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008296s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.044229s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.044717s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.045174s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.045518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001760s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046040s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2015-01-08T09:19:39+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.037340s ]
+INFO: [ view_template ] --END-- [ RunTime:0.023130s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 44 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 45 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 47 行.
+NOTIC: [8] Undefined variable: msg E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 55 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 74 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 77 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.060544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097793s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.158338s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.180544s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.190955s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.191538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.033934s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.192333s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2015-01-08T09:19:49+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.020469s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020595s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.023044s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001562s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.024682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020929s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.045682s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046643s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.047826s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.048713s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004269s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.050073s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001568s ]
+
+[ 2015-01-08T09:19:53+08:00 ] 127.0.0.1 /source/index.php/Login/loginHandle
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001570s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001711s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.217293s ]
+SQL: SELECT * FROM `think_user` WHERE ( `account` = 'swon' ) LIMIT 1   [ RunTime:0.000647s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 19 行.
+SQL: UPDATE `think_user` SET `status`=1 WHERE ( `account` = 'swon' ) [ RunTime:0.000436s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 20 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.418837s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001323s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.420236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025795s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.446052s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.446564s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.447275s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.447852s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002621s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.448755s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001011s ]
+
+[ 2015-01-08T09:19:54+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001558s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001697s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.035003s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000347s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.029117s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000334s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.101776s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000558s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.102370s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058648s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.161114s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.161892s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.162978s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.163880s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004086s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.165323s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001584s ]
+
+[ 2015-01-08T09:20:26+08:00 ] 127.0.0.1 /source/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.000963s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000701s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 44 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 45 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 47 行.
+NOTIC: [8] Undefined variable: msg E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 55 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 74 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 77 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008493s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010230s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010706s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011169s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001823s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012115s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2015-01-08T09:20:28+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000714s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001627s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006766s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009041s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009436s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009804s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001474s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010573s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2015-01-08T09:20:37+08:00 ] 127.0.0.1 /source/index.php/Login/loginHandle
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000567s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012986s ]
+SQL: SELECT * FROM `think_user` WHERE ( `account` = 'swon' ) LIMIT 1   [ RunTime:0.000262s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 19 行.
+SQL: UPDATE `think_user` SET `status`=1 WHERE ( `account` = 'swon' ) [ RunTime:0.000143s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 20 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.021666s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000587s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.022347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006123s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.028479s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.028773s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.029062s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.029271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001208s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.029753s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2015-01-08T09:20:38+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001442s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001567s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.011282s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000325s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.015067s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000444s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.049761s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000868s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.050720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008161s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.058887s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.059251s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.059586s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.059806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001281s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.060220s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2015-01-08T09:20:54+08:00 ] 127.0.0.1 /source/index.php/Login/logout
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000688s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012775s ]
+SQL: UPDATE `think_user` SET `status`=0 WHERE ( `account` = 'swon' ) [ RunTime:0.000377s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 35 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.021721s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000508s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.022263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005852s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.028150s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.028458s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.028753s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.029006s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001276s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.029478s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2015-01-08T09:20:55+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000765s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001547s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000513s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007176s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009310s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009694s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010011s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010245s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001334s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010694s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-01-08T09:20:58+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001517s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001653s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.008796s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000284s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011423s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000262s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.035701s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000552s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.036285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007467s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.043785s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.044107s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.044555s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.044914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001633s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.045470s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2015-01-08T09:35:48+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.005868s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006006s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004674s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.008590s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000313s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011864s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000278s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.064403s ]
+INFO: [ view_template ] --END-- [ RunTime:0.004266s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.068709s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046340s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.115080s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.119616s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.123665s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.127181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016774s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.131912s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003713s ]
+
+[ 2015-01-08T09:35:50+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000706s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.010514s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000344s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011275s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000276s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.032067s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000486s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.032586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007626s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.040245s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.040571s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.040887s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.041113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001252s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.041560s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-01-08T09:40:57+08:00 ] 127.0.0.1 /source/index.php/Login/logout
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000762s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013494s ]
+SQL: UPDATE `think_user` SET `status`=0 WHERE ( `account` = 'swon' ) [ RunTime:0.000231s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 35 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.023401s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000913s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.024379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014020s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.038423s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.038816s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.039210s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.039511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001524s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.040020s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000688s ]
+
+[ 2015-01-08T09:40:58+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000600s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001213s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000538s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008510s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010324s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010684s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010986s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001276s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011653s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2015-01-08T09:41:07+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2015-01-08T09:42:25+08:00 ] 127.0.0.1 /source/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001711s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001859s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.003970s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001155s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 11 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 12 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 14 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.005204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014814s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.020028s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.020368s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.020699s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.020929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001290s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.021370s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2015-01-08T09:42:40+08:00 ] 127.0.0.1 /source/index.php/Login/logout
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001036s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001132s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012735s ]
+SQL: UPDATE `think_user` SET `status`=0 WHERE ( `account` = null ) [ RunTime:0.017426s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 35 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.040215s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000686s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.040933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006443s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.047412s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.047837s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.048228s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.048529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001580s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.049043s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2015-01-08T09:42:41+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000734s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001511s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000636s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007496s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009722s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010147s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.010530s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001557s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.011341s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2015-01-08T09:42:48+08:00 ] 127.0.0.1 /source/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001489s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001624s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.003694s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001290s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 11 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 12 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 14 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.005044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006565s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011613s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011939s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012235s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001221s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012884s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2015-01-08T09:43:38+08:00 ] 127.0.0.1 /source/index.php/Login/logout
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000826s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012566s ]
+SQL: UPDATE `think_user` SET `status`=0 WHERE ( `account` = null ) [ RunTime:0.000246s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 35 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.022660s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000618s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.023314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006783s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.030132s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.030543s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.030907s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001530s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031709s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2015-01-08T09:43:39+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000818s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001643s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000699s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007718s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010144s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.010627s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011084s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001800s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012012s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2015-01-08T09:43:43+08:00 ] 127.0.0.1 /source/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000726s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002256s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000668s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 11 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 12 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 14 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009310s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012330s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012710s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.013087s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.013350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001470s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013861s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2015-01-08T09:44:08+08:00 ] 127.0.0.1 /source/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002147s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002322s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.004733s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000821s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 11 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 12 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 14 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.005630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011405s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.017043s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.017352s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.017649s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.017865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001218s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.018309s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2015-01-08T09:44:11+08:00 ] 127.0.0.1 /source/index.php/Login/logout
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000716s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012722s ]
+SQL: UPDATE `think_user` SET `status`=0 WHERE ( `account` = null ) [ RunTime:0.000255s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 35 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.022545s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000480s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.023059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005930s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.029026s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.029359s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.029655s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.029867s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001207s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.030278s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-01-08T09:44:12+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001489s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001627s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.003150s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001038s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.004343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006770s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011101s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011440s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011733s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011961s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001257s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012410s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2015-01-08T09:44:22+08:00 ] 127.0.0.1 /source/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000849s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001979s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000464s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 11 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 12 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f331a3f0d874c4248458495ef2c2c2d1.php 第 14 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008049s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010580s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011023s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011458s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011780s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001748s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012400s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2015-01-08T09:44:56+08:00 ] 127.0.0.1 /source/index.php/Login/loginHandle
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000730s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012649s ]
+SQL: SELECT * FROM `think_user` WHERE ( `account` = 'swon' ) LIMIT 1   [ RunTime:0.000297s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 19 行.
+SQL: UPDATE `think_user` SET `status`=1 WHERE ( `account` = 'swon' ) [ RunTime:0.000340s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 20 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.022082s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.022680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005674s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.028370s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.028692s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.028982s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.029192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001180s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.029627s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2015-01-08T09:44:57+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000595s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.009336s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000341s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011132s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000313s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.030363s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000635s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.031035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008618s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.039682s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.040046s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.040342s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.040563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001271s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.041000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2015-01-08T09:45:08+08:00 ] 127.0.0.1 /source/index.php/Login/logout
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001473s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001608s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012769s ]
+SQL: UPDATE `think_user` SET `status`=0 WHERE ( `account` = 'swon' ) [ RunTime:0.000252s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 35 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.022195s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000467s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.022696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005874s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.028614s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.028955s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.029278s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.029508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001283s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.029947s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2015-01-08T09:45:09+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000723s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001540s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000796s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006564s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.009002s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.009377s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.009779s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.010066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001543s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.010632s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2015-01-08T09:52:40+08:00 ] 127.0.0.1 /source/index.php/Login/loginHandle
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000715s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.015458s ]
+SQL: SELECT * FROM `think_user` WHERE ( `account` = 'swon' ) LIMIT 1   [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 19 行.
+SQL: UPDATE `think_user` SET `status`=1 WHERE ( `account` = 'swon' ) [ RunTime:0.000277s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 20 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.026289s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000506s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.026830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005564s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.032424s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.032719s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.033010s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.033234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001176s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.033649s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2015-01-08T09:52:41+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001853s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002033s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001709s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.010731s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000387s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.015227s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000260s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.048106s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000704s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.048845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008024s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.056929s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.057415s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.057864s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.058207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001782s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.058762s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2015-01-08T09:54:41+08:00 ] 127.0.0.1 /source/index.php/Login/logout
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000878s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013847s ]
+SQL: UPDATE `think_user` SET `status`=0 WHERE ( `account` = null ) [ RunTime:0.000272s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 35 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.026292s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000645s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.026973s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006518s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.033553s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.034038s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.034426s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.034799s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001691s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.035283s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-01-08T09:54:42+08:00 ] 127.0.0.1 /source/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000615s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001394s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000562s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\f7cfe375dfbc7bd6ec8b334d6655f42c.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005775s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.007794s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.008129s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.008443s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.008672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001263s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.009109s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2015-01-08T09:54:58+08:00 ] 127.0.0.1 /source/index.php/Login/loginHandle
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000708s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.014633s ]
+SQL: SELECT * FROM `think_user` WHERE ( `account` = 'swon' ) LIMIT 1   [ RunTime:0.000327s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 19 行.
+SQL: UPDATE `think_user` SET `status`=1 WHERE ( `account` = 'swon' ) [ RunTime:0.000213s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Lib\Action\LoginAction.class.php 第 20 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.024902s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000670s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.025640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007907s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.033570s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.033893s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.034210s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.034438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001251s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.034871s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2015-01-08T09:54:59+08:00 ] 127.0.0.1 /source/index.php/Index/homePage
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001439s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001571s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:-0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [8] Use of undefined constant msg - assumed 'msg' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `think_msg` [ RunTime:0.010161s ]
+SQL: SELECT * FROM `think_msg` ORDER BY id desc LIMIT 5   [ RunTime:0.000351s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' E:\apache\htdocs\source\App\Lib\Action\IndexAction.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011195s ]
+SQL: SELECT * FROM `think_user` WHERE ( `status` = 1 )  [ RunTime:0.000275s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.033054s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000780s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 47 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 76 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' E:\apache\htdocs\source\App\Runtime\Cache\67c2427ca169b215d259029cc23ce8b9.php 第 79 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.033903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008095s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.042025s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.042357s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.042668s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.042896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001257s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.043335s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000531s ]
+
